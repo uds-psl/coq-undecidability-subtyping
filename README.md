@@ -7,7 +7,7 @@ Master's thesis of Roberto Alvarez
 - [Equations package v1.2.4](https://github.com/mattam82/Coq-Equations/releases/tag/v1.2.4-8.13)
 
 ## Installation
-```
+
 Generate makefile with
 ```
 coq_makefile -f _CoqProject -o Makefile
