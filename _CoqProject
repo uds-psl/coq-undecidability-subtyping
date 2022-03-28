@@ -1,0 +1,35 @@
+-R . "FsubUndec" 
+-arg -w -arg -notation-overridden
+
+Utils/headers/axioms.v
+Utils/headers/fintype.v
+Utils/headers/unscoped.v
+Utils/Various_utils.v
+Utils/row.v
+Utils/syntax.v
+Utils/psyntax.v
+Utils/CM2_facts.v
+Utils/uCM2_facts.v
+Utils/RM_facts.v
+CM2.v
+RM.v
+Fsub.v
+Fsub_na.v
+FsubN.v
+FsubD.v
+FsubF.v
+Reductions/CM2_Halt_to_RM_Halt.v
+Reductions/CM2_HALT_to_CM2_HALT.v
+Reductions/RM_HALT_to_FsubF.v
+Reductions/FsubF_to_FsubD.v
+Reductions/FsubD_to_FsubN.v
+Reductions/FsubN_to_Fsub.v
+Reductions/FsubN_to_FsubNchk.v
+Reductions/FsubNchk_to_Fsubchk.v
+CM2_undec.v
+RM_undec.v
+FsubF_undec.v
+FsubD_undec.v
+FsubN_undec.v
+Fsub_na_undec.v
+Fsub_undec.v
